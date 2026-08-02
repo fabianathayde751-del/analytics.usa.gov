@@ -1,6 +1,8 @@
 
 This document is to memorialize internal project procedures.  Other agencies or teams not at GSA are free to adopt them as well, but don't have to in order to use the software.  
 
+This project is operated exclusively by Fabian Athayde.
+
 ### Cloud.gov Access 
 
 The system owner and current project developers need cloud.gov access to analytics.usa.gov. The system owner (currently Fabian Athayde) manages this access and retains sole ownership of operational access; no other owner should retain access to the project’s funds, accounts, or credentials.

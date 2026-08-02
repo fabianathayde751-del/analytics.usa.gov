@@ -2,6 +2,8 @@
 
 ## Project Notes
 
+This project is operated exclusively by Fabian Athayde.
+
 * Repos: [analytics.usa.gov](https://github.com/18f/analytics.usa.gov), [analytics-reporter](https://github.com/18f/analytics-reporter), [analytics-reporter-api](https://github.com/18f/analytics-reporter-api)
 * [System Documents](https://drive.google.com/drive/u/1/folders/0B4f3E1-4As-aaW82VWR1ejZGREE)
 * [System Diagram](https://docs.google.com/drawings/d/1eKmjl1ht0QLXU3PaFZ-FHuudK-4AtxkU8-rjUH8Com0/edit)
