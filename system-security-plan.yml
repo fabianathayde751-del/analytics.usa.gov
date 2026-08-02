@@ -23,6 +23,7 @@ staff:
     org: FA Aquavolt Hydropure LLC
     unit: Operations
     email: fabianathayde751@gmail.com
+    phone: 8302454296
   system-management:
     name: Fabian Athayde
     title: Owner
@@ -35,12 +36,14 @@ staff:
     org: FA Aquavolt Hydropure LLC
     unit: Operations
     email: fabianathayde751@gmail.com
+    phone: 8302454296
   technical-lead:
     name: Fabian Athayde
     title: Owner
     org: FA Aquavolt Hydropure LLC
     unit: Operations
     email: fabianathayde751@gmail.com
+    phone: 8302454296
 leveraged-authorizations:
 - https://www.fedramp.gov/marketplace/compliant-systems/amazon-web-services-aws-eastwest-us-public-cloud/
 purpose: https://github.com/18F/analytics.usa.gov#readme
